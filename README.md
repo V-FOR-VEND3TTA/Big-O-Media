@@ -1,2 +1,2 @@
-# musical-octo-giggle
-A business website for TechTonic Digital Solutions. Landing page and contact form included.
+# Big O Media
+An advertising agency website for Big O Media
