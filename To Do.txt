@@ -4,3 +4,5 @@ Must add the landing page to the same URL
 Must add services to the website
 Must add a detailed about section to the website
 Change colors to be blue, black, and white
+Change bg image on contact form
+Change images on profile section
