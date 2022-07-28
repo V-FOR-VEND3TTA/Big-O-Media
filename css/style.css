@@ -284,8 +284,8 @@ footer {
   text-transform: uppercase;
 }
 
-.custom-navbar .navbar-nav > li > a:hover,
-.custom-navbar .navbar-nav > li > a:focus {
+.custom-navbar .navbar-nav>li>a:hover,
+.custom-navbar .navbar-nav>li>a:focus {
   background-color: transparent;
   color: #ffffff;
 }
@@ -302,13 +302,13 @@ footer {
 }
 
 .custom-navbar .navbar-nav li a:hover:after,
-.custom-navbar .nav li.active > a:after {
+.custom-navbar .nav li.active>a:after {
   background: #ffffff;
   color: #ffffff;
   width: 100%;
 }
 
-.custom-navbar .nav li.active > a {
+.custom-navbar .nav li.active>a {
   background-color: transparent;
   color: #ffffff;
 }
@@ -331,6 +331,7 @@ footer {
   .custom-navbar {
     background: 0 0;
   }
+
   .custom-navbar.top-nav-collapse {
     background: #48b8cc;
     padding: 15px 0;
@@ -441,6 +442,7 @@ footer {
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
 }
+
 .project-item:hover img {
   transform: scale(1.1);
 }
@@ -449,6 +451,7 @@ footer {
   color: #ffffff;
   margin: 0;
 }
+
 .project-overlay h3 {
   color: #d9d9d9;
   font-size: 14px;
@@ -486,6 +489,7 @@ footer {
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
 }
+
 .team-item:hover img {
   transform: scale(1.1);
 }
@@ -508,6 +512,7 @@ footer {
   position: relative;
   top: 45%;
 }
+
 .team-overlay .social-icon li a {
   background: #ffffff;
   color: #191919;
@@ -526,7 +531,7 @@ footer {
 -----------------------------------------*/
 
 #contact {
-  background: url("../images/contact-bg.jpg") 50% 0 repeat-y fixed;
+  background: url("../images/social-background.jpg") 50% 0 repeat-y fixed;
   background-size: cover;
   background-position: center center;
 }
@@ -659,6 +664,7 @@ footer .copyright-text {
   footer {
     text-align: center;
   }
+
   footer .social-icon {
     margin-top: 32px;
   }
@@ -674,11 +680,13 @@ footer .copyright-text {
   .custom-navbar {
     padding: 10px 0;
   }
+
   .custom-navbar .nav li a {
     display: inline-block;
     line-height: 15px;
     margin-bottom: 0;
   }
+
   .custom-navbar .nav li:last-child a {
     margin-bottom: 5px;
   }
