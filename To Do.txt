@@ -1,4 +1,4 @@
-Must add transitions and animations to liven it upper
+Must add transitions and animations to liven it up
 Must add PHP script that will send email to our email address
 Must add the landing page to the same URL
 Must add services to the website
