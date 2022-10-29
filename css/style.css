@@ -85,7 +85,7 @@ p {
   font-weight: normal;
   letter-spacing: 0.5px;
   padding: 0 25px;
-  background:#77b5d9;
+  background: #77b5d9;
   border-radius: 1px;
   -webkit-transition: -webkit-transform 0.3s;
   -moz-transition: -moz-transform 0.3s;
@@ -528,7 +528,7 @@ footer {
 }
 
 /*---------------------------------------
-  CONTACT             
+  CONTACT FORM      
 -----------------------------------------*/
 
 /* #contact {
@@ -583,8 +583,8 @@ footer {
 -----------------------------------------*/
 
 footer {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 footer h4 {
@@ -597,6 +597,8 @@ footer a {
 
 footer .copyright-text {
   padding-top: 42px;
+  display: flex;
+  justify-content: center;
 }
 
 /*---------------------------------------
