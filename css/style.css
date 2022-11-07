@@ -263,7 +263,8 @@ footer {
 
 .custom-navbar {
   margin-bottom: 0;
-  background-color: #48b8cc;
+  background-color: #77b5d9;
+  /* #48b8cc */
   padding: 20px 0;
 }
 
@@ -304,7 +305,7 @@ footer {
 
 .custom-navbar .navbar-nav li a:hover:after,
 .custom-navbar .nav li.active>a:after {
-  background: #ffffff;
+  background: #77b5d9;
   color: #ffffff;
   width: 100%;
 }
@@ -709,13 +710,17 @@ footer .copyright-text {
     font-size: 26px;
   }
 
+  /* text underline effect */
+  /*h1 {
+    
+  }*/
+
   #home {
     height: 100vh;
   }
 
-  .about-info h3 {
-    font-size: 12px;
-    letter-spacing: 6px;
+  .about-info h2 {
+    letter-spacing: 2px;
   }
 
   .project-info {
