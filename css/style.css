@@ -611,7 +611,7 @@ footer .copyright-text {
   position: relative;
   padding: 0;
   margin: 0;
-  text-align: center;
+  text-align: left;
 }
 
 .social-icon li {
@@ -635,6 +635,20 @@ footer .copyright-text {
 .social-icon li a:hover {
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
+}
+
+/*---------------------------------------
+PRIVACY AND TERMS AND CONDITIONS PAGES
+-----------------------------------------*/
+.important-info {
+  list-style: none;
+}
+
+.important-info p {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  text-align: left;
 }
 
 /*---------------------------------------
@@ -710,11 +724,6 @@ footer .copyright-text {
   h1 {
     font-size: 26px;
   }
-
-  /* text underline effect */
-  /*h1 {
-    
-  }*/
 
   #home {
     height: 100vh;
